@@ -19,17 +19,17 @@ This project is a simple real-time messenger application supporting:
 - **Build tools:** TypeScript compiler (tsc), npm
 
 ## Project Structure
-
+```
 /project-root
 │
-├── server.ts # Node.js server (TypeScript)
+├── server.ts           # Node.js server (TypeScript)
 ├── package.json
 ├── tsconfig.json
 │
-└── public/ # Static frontend assets
-├── index.html # Main HTML page with Tailwind UI
-└── client.js # Client-side JS handling UI & socket logic
-
+└── public/             # Static frontend assets
+    ├── index.html      # Main HTML page with Tailwind UI
+    └── client.js       # Client-side JS handling UI & socket logic
+```
 
 ## Setup Instructions
 
