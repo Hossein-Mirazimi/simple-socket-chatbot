@@ -100,6 +100,10 @@ The client and server communicate in real-time over WebSocket using the Socket.i
 - Clients listen for `privateMessage`, `groupMessage`, and `groupChatHistory` events.  
 - Clients maintain a message cache with unique IDs to avoid duplicates and update UI accordingly.
 
+### Screenshot
+![image](https://github.com/user-attachments/assets/a5e239e0-6ba9-47f7-9334-60b4a976dcc2)
+![image](https://github.com/user-attachments/assets/330ae68c-17fc-4e29-921a-403aa1ee5fbe)
+
 
 ### Sequence Diagram
 
